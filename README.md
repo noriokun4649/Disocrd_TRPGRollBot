@@ -1,0 +1,2 @@
+# Disocrd_TRPGRollBot
+DiscordのテキストチャンネルからTRPGで使うようなロールをふれるBotです。
