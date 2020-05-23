@@ -1,5 +1,6 @@
 # Disocrd_TRPGRollBot
-DiscordのテキストチャンネルからTRPGで使うようなロールをふれるBotです。
+DiscordのテキストチャンネルからTRPGで使うようなロールをふれるBotです。  
+Node.jsにて動きます。依存環境はdiscord.jsです。
 
 # Command
 !roll  
